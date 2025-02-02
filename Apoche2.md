@@ -126,3 +126,7 @@ curl -I näyttää palvelimen palauttamat HTTP-otsakkeet, jotka sisältävät t�
 
 curl puolestaan lataa koko sivun sisällön (HTML tai muu).
 
+## Lähteet
+
+Karvinen 2018: https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
+Kong Yang and Lisa Tagliaferri 2022: https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-20-04
